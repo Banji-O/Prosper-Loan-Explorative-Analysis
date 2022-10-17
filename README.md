@@ -8,7 +8,7 @@ The acquired Prosper loan dataset originally comprised of 81 variables and 113,9
 
 ## Summary of Findings
 
-The time series analyses revealed that isted borrowers maintained an upward trend from year 2009, 2010, 2011, 2012, and got to the peak in 2013. The unusual decline recorded in 2014 is due to the fact that the dataset lastest date was March, 2014.In relation to months, Prosper is quite busier listing borrowers in September, October, November, and December than other months, most especially in the month of April. Monday and Tuesday recorded the highest number of listed borrowers, and the trend moved downward gently to wednesday, Thursday and Friday. A sharp drop was recorded on Saturday and Sunday.
+The time series analyses revealed that listed borrowers maintained an upward trend from year 2009, 2010, 2011, 2012, and got to the peak in 2013. The unusual decline recorded in 2014 is due to the fact that the dataset lastest date was March, 2014.In relation to months, Prosper is quite busier listing borrowers in September, October, November, and December than other months, most especially in the month of April. Monday and Tuesday recorded the highest number of listed borrowers, and the trend moved downward gently to wednesday, Thursday and Friday. A sharp drop was recorded on Saturday and Sunday.
 
 Listed borrowers are evenly distributed accross USA. Highest number of borrowers came from California in Far West, followed by New York almost in the Far East, Texas located in Southwest, Florida found at the horn in Southeast, and Illinois located around the Great Lakes.
 
